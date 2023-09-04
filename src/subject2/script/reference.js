@@ -1,0 +1,51 @@
+const reference = [
+  {
+    author: "Heidi Kaden",
+    title: "",
+    year: "2019",
+    sourceTitle: "",
+    link: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/gcKomw5peMo",
+  },
+  {
+    author: "Eir Health",
+    title: "",
+    year: "2023",
+    sourceTitle: "",
+    link: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EC%86%90%EC%97%90-%EC%84%B8-%EA%B0%9C%EC%9D%98-%EA%B3%B5%EC%9D%84-%EB%93%A4%EA%B3%A0-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-CX_vgt1fG7c",
+  },
+  {
+    author: "Sara Cervera",
+    title: "",
+    year: "2020",
+    sourceTitle: "",
+    link: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/zEwgRzJJIvk",
+  },
+  {
+    author: "Sviatoslav Huzii",
+    title: "",
+    year: "2020",
+    sourceTitle: "",
+    link: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/I497Uc8xWXQ",
+  },
+  {
+    author: "Kier in Sight Archives",
+    title: "",
+    year: "2021",
+    sourceTitle: "",
+    link: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/Iyq_5YfvIng",
+  },
+  {
+    author: "Daniela Chavez",
+    title: "",
+    year: "2021",
+    sourceTitle: "",
+    link: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/hArjLHA1yMw",
+  },
+  {
+    author: "Diana Light",
+    title: "",
+    year: "2019",
+    sourceTitle: "",
+    link: "https://unsplash.com/ko/%EC%82%AC%EC%A7%84/Clmo8zsV-2U",
+  },
+];
